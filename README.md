@@ -21,6 +21,7 @@ The project demonstrates smooth animations and modern frontend animation techniq
 
 ## 🌐 Live Demo
 https://statuesque-kangaroo-71d21d.netlify.app
+https://gleaming-mandazi-abc78e.netlify.app
 
 
 
